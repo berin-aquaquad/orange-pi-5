@@ -3,7 +3,8 @@
 
 OPI5 open micro desktop case design.
 
-(1/7/2023) New updated cad drawing. I got my RPI4 "ice tower cpu cooling fan" heatsink. I have done the CAD adjustments I need for it to be installed. At this point if anyone has interest in adjustments Please contact me.
+(1/7/2023) New updated cad drawing. I got my RPI4 "ice tower cpu cooling fan" heatsink. I have done the CAD adjustments I need for it to be installed. I am now creating a custom SPACER aluminum block and attachment bracket so it can even work with the OPI5. 
+At this point if anyone has interest in adjustments Please contact me.
 
 This is an on going project and I'll be uploading updated cad draws as they are available and pictures of the latest adjustments. If anyone has a request please send me a message via twitter #Berinmoney I'll respond as time allows. When I get closer to a final version I'll add images showing dimentions.
 
