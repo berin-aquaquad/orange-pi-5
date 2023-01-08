@@ -13,11 +13,11 @@ I have not built the design yet as of the current date whatever today is. I will
 FYI I'm looking for details on the OPI5. The OPI5 has an onboard RTC real time clock. and there are two test pads next to it one "grd1" the other "RTC1". That MUST be for a battery backup. I can find no details on what kind of a battery setup is needed. According to the schematic "RTC1" will be HOT with 5v DC when the SBC is running. What battery setup may be used on this? Any help would be wonderful.
 
 Planned design additions for consideration:
-Headphone jack front or back.
-USB on front.
-All other headers LCD 1 2, CAM 1 2 3, UART.
-Stats LCD on front.
-3D printed power button to press power button on OPI5 motherboard.
-GPIO header for external access, "custom design or standard web link to example, I need feedback ".
-RTC battery holder to make use of the onboard RTC.
-RGB Micro Desktop case LIGHTING options?
+*Headphone jack front or back.
+*USB on front.
+*All other headers LCD 1 2, CAM 1 2 3, UART.
+*Stats LCD on front.
+*3D printed power button to press power button on OPI5 motherboard.
+*GPIO header for external access, "custom design or standard web link to example, I need feedback ".
+*RTC battery holder to make use of the onboard RTC.
+*RGB Micro Desktop case LIGHTING options?
