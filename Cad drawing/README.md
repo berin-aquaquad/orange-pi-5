@@ -5,3 +5,5 @@ The cad drawing expects metal or plastic 5mm tall threaded standoffs for the OPI
 The HDMI port on the back is expecting a ribbon cable extension HDMI adapter, amazon sells them places like that.
 
 I need to find out what all of the features of the audio jack are before a just add a standard short extension and screw port for audio.
+
+I will add links to products if people do not have them on hand as time goes on.
