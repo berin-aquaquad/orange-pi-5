@@ -21,3 +21,4 @@ Planned design additions for consideration:
 * GPIO header for external access, "custom design or standard web link to example, I need feedback ".
 * RTC battery holder to make use of the onboard RTC.
 * RGB Micro Desktop case LIGHTING options?
+* Lithium battery backup power pack
