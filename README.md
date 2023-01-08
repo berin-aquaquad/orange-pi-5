@@ -28,4 +28,4 @@ Manuals https://drive.google.com/drive/folders/1Bre2q0bGgXQuQlYaYDMvwstpvtHLmcgX
 * Looking at the PDF manual the headphone jack has a mic connector for external micrphone support.
 
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9V5DCAGA6JH32)
-9V5DCAGA6JH32
+
