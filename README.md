@@ -12,13 +12,14 @@ This design was created using Designspark mechanical https://uk.rs-online.com/we
 I have not built the design yet as of the current date whatever today is. I will post about the start of the build when I start. I'm adding locations for all of the missing I/O to the shell as I find good parts to do so with, or learn of features. I just finished building the cad model 12/31/2022. I have currently left it as an open canvas design. The shell itself can be modified if so desired to be a mono body. Currently it's designed as a split body to be able to be printed on smaller 3d printers. The outside covers left and right are acrylic. The Mount that the OPI5 mounts to is acrylic as well. This design expects the two side panels and the sbc mount panel to be 3d printed or cnc cut or laser cut. The rest of the shell is to be 3D printed. Enjoy and please tag me as the original designer. 
 FYI I'm looking for details on the OPI5. The OPI5 has an onboard RTC real time clock. and there are two test pads next to it one "grd1" the other "RTC1". That MUST be for a battery backup. I can find no details on what kind of a battery setup is needed. According to the schematic "RTC1" will be HOT with 5v DC when the SBC is running. What battery setup may be used on this? Any help would be wonderful.
 
-Planned design additions for consideration:
+Planned design additions for consideration: I need feedback on the listed or suggestions if not listed. I can create it in cad but I need dimentions to items of consideration.
+
 * Headphone jack front or back.
 * USB on front.
 * All other headers LCD 1 2, CAM 1 2 3, UART.
 * Stats LCD on front.
 * 3D printed power button to press power button on OPI5 motherboard.
-* GPIO header for external access, "custom design or standard web link to example, I need feedback ".
+* GPIO header for external access, "custom design or standard?? I need a web link example".
 * RTC battery holder to make use of the onboard RTC.
 * RGB Micro Desktop case LIGHTING options?
 * Lithium battery backup power pack
