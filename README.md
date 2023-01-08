@@ -23,3 +23,6 @@ Planned design additions for consideration: I need feedback on the listed or sug
 * RTC battery holder to make use of the onboard RTC.
 * RGB Micro Desktop case LIGHTING options?
 * Lithium battery backup power pack
+
+Manuals https://drive.google.com/drive/folders/1Bre2q0bGgXQuQlYaYDMvwstpvtHLmcgX?usp=share_link
+* Looking at the PDF manual the headphone jack has a mic connector for external micrphone support.
