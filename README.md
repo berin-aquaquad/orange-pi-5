@@ -27,4 +27,4 @@ Planned design additions for consideration: I need feedback on the listed or sug
 Manuals https://drive.google.com/drive/folders/1Bre2q0bGgXQuQlYaYDMvwstpvtHLmcgX?usp=share_link
 * Looking at the PDF manual the headphone jack has a mic connector for external micrphone support.
 
-If you would like to buy me a coffie, it helps me design thanks.  [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9V5DCAGA6JH32)
+If you would like to buy me a coffie, it helps me design thanks. [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif)](https://www.paypal.com/donate/?business=payberin1@hotmail.com&no_recurring=0&item_name=Payment+for+Stackoverflow+Example&item_number=Suggested+Price:+$7.99+USD&currency_code=USD)
