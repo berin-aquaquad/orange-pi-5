@@ -14,7 +14,7 @@ FYI I'm looking for details on the OPI5. The OPI5 has an onboard RTC real time c
 
 Planned design additions for consideration: I need feedback on the listed or suggestions if not listed. I can create it in cad but I need dimentions to items of consideration.
 
-* Headphone jack front or back.
+* Headphone jack front or back, maybe a custom PCB to breakout audio/mic and split to a backside of the desktop header.
 * USB on front.
 * All other headers LCD 1 2, CAM 1 2 3, UART.
 * Stats LCD on front.
