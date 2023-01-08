@@ -1,4 +1,4 @@
-An RSDOC file is the custom CAD file format for DesignSpark. Its a full 3d file format.
+An RSDOC file is the custom CAD file format for DesignSpark. Its a full 3d file format. Designspark is very powerful CAD software that is also free and on par with fusion360. 
 
 The cad drawing expects metal or plastic 5mm tall threaded standoffs for the OPI5
 
