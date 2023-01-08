@@ -27,4 +27,4 @@ Planned design additions for consideration: I need feedback on the listed or sug
 Manuals https://drive.google.com/drive/folders/1Bre2q0bGgXQuQlYaYDMvwstpvtHLmcgX?usp=share_link
 * Looking at the PDF manual the headphone jack has a mic connector for external micrphone support.
 
-If you would like to buy me a coffie, it helps me design thanks. [! [Donate] (https://img.shields.io/badge/Donate-PayPal-green.svg)] (berinslaptop@gmail.com)
+If you would like to buy me a coffie, it helps me design thanks.
