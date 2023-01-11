@@ -3,6 +3,8 @@
 
 OPI5 open micro desktop case design.
 
+1/11/2023 Small update, finally got a chance to start building the aluminum spacer heatsinc block, I'll post pictures when able.
+
 (1/7/2023) New updated cad drawing. I got my RPI4 "ice tower cpu cooling fan" heatsink. I have done the CAD adjustments I need for it to be installed. I am now creating a custom SPACER aluminum block and attachment bracket so it can even work with the OPI5. 
 At this point if anyone has interest in adjustments Please contact me.
 
