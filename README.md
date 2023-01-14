@@ -1,6 +1,8 @@
 # orange-pi-5
 ![opi5 micro desktop back and side view](https://user-images.githubusercontent.com/15570512/210899034-5617d4ca-1f99-4545-9630-c1aaf9792690.jpg)
 
+![opi5 micro desktop heatsink standoff and mount bracket] (https://github.com/berin-aquaquad/orange-pi-5/blob/8578cc395589c3d602adfb7000c89123f3e8f174/opi5%20micro%20desktop%20heatsink%20standoff%20mount%20bracket.jpg)
+
 OPI5 open micro desktop case design.
 
 1/14/2023 small update, my aluminum block has been cnc milled (I'll post new photos soon keep checking). I need to get some longer screws that match the heatsink and some sheet metal to create a bracket to keep the heatsink in contact with the processor (gravity strain relief). I wish I had access to a fiber or co2 metal cutting laser to make a perfect bracket.
