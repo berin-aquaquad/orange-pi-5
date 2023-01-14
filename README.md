@@ -1,7 +1,8 @@
 # orange-pi-5
 ![opi5 micro desktop back and side view](https://user-images.githubusercontent.com/15570512/210899034-5617d4ca-1f99-4545-9630-c1aaf9792690.jpg)
 
-![opi5 micro desktop heatsink standoff and mount bracket] (https://github.com/berin-aquaquad/orange-pi-5/blob/8578cc395589c3d602adfb7000c89123f3e8f174/opi5%20micro%20desktop%20heatsink%20standoff%20mount%20bracket.jpg)
+![opi5 micro desktop heatsink standoff mount bracket](https://user-images.githubusercontent.com/15570512/212479681-3dd1167f-e2a8-4aed-8ce2-19b87fb451e4.jpg)
+
 
 OPI5 open micro desktop case design.
 
