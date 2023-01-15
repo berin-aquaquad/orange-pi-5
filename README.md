@@ -14,7 +14,7 @@ The core body is 62mm wide
 
 OPI5 open micro desktop case design.
 
-1/15/2023 Unbelievable, I have to order a kit of plastic stand off mounts for the OPI5 project. I have a huge kit and its just ….. ? GONE ? In any case the brackets are built sanded and “dry” fitted. Its a perfect fit but till I have the standoffs I cant assemble anything. Very pissed off, I’m 99.999999 sure I tossed the sorted box last year along with a bunch of trash and excess useless empty sorting boxes of like size kind.
+1/15/2023 Unbelievable, I have to order a kit of plastic stand off mounts for the OPI5 project. I have a huge kit and its just ….. ? GONE ? In any case the brackets are built sanded and “dry” fitted. Its a perfect fit but still dont have the standoffs,so I cant assemble anything. Very pissed off, I’m 99.999999 sure I tossed the sorted box last year along with a bunch of trash and excess useless empty sorting boxes of like size kind.
 
 1/14/2023 tonight, I found the screws I need FUI the cooler I described uses 2.5mm screws. I have picked up some 1/16th sheet steel and will try my hand and milling the brack design with my cnc. Its not designed for steel but is ok for aluminum. I do have some 4 flute bits so we shall see. **** tonight update part two, cutting steel sheet metal on my cnc machine...??..??? and its going REALLY well. I will post photos when the milling job is done. ******** last post for the night just before midnight. The steel frame bracket has been cut and is pictured in the cad/gcode folder have a look. Its the first noncad image I've posted.
 
