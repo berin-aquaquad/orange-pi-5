@@ -8,7 +8,7 @@
 
 OPI5 open micro desktop case design.
 
-1/14/2023 tonight, I found the screws I need FUI the cooler I described uses 2.5mm screws. I have picked up some 1/16th sheet steel and will try my hand and milling the brack design with my cnc. Its not designed for steel but is ok for aluminum. I do have some 4 flute bits so we shall see. **** tonight update part two, cutting steel sheet metal on my cnc machine...??..??? and its going REALLY well. I will post photos when the milling job is done.
+1/14/2023 tonight, I found the screws I need FUI the cooler I described uses 2.5mm screws. I have picked up some 1/16th sheet steel and will try my hand and milling the brack design with my cnc. Its not designed for steel but is ok for aluminum. I do have some 4 flute bits so we shall see. **** tonight update part two, cutting steel sheet metal on my cnc machine...??..??? and its going REALLY well. I will post photos when the milling job is done. ******** last post for the night just before midnight. The steel frame bracket has been cut and is pictured in the cad/gcode folder have a look. Its the first noncad image I've posted.
 
 1/14/2023 small update, my aluminum block has been cnc milled (I'll post new photos soon keep checking). I need to get some longer screws that match the heatsink and some sheet metal to create a bracket to keep the heatsink in contact with the processor (gravity strain relief). I wish I had access to a fiber or co2 metal cutting laser to make a perfect bracket. The standoff heatsink is to allow the small stick-on heatsink kit that adds cooling to the other chips on the OPI5. I also added a new folder with gcode files for the heatsink spacer block.
 
