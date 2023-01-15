@@ -7,6 +7,8 @@
 ![opi5 micro desktop dimensions](https://user-images.githubusercontent.com/15570512/212555028-3c1645ce-741b-4935-843d-13c97821a9f1.jpg)
 The core body is 62mm wide
 
+
+
 OPI5 open micro desktop case design.
 
 1/15/2023 Unbelievable, I have to order a kit of plastic stand off mounts for the OPI5 project. I have a huge kit and its just ….. ? GONE ? In any case the brackets are built sanded and “dry” fitted. Its a perfect fit but till I have the standoffs I cant assemble anything. Very pissed off, I’m 99.999999 sure I tossed the sorted box last year along with a bunch of trash and excess useless empty sorting boxes of like size kind.
