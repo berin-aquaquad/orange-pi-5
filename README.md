@@ -4,7 +4,8 @@
 
 ![opi5 micro desktop heatsink standoff mount bracket](https://user-images.githubusercontent.com/15570512/212485847-4f845119-6474-4ce0-8fec-bec8516d64f3.jpg)
 
-
+![opi5 micro desktop dimensions](https://user-images.githubusercontent.com/15570512/212555028-3c1645ce-741b-4935-843d-13c97821a9f1.jpg)
+The core body is 62mm wide
 
 OPI5 open micro desktop case design.
 
