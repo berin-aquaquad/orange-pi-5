@@ -6,3 +6,4 @@ The TAP file is a GCODE file of the heatsink block. If anyone has a cnc machine 
 The .E10 file is an ESTLcam file. I love ESTLcam, everything about it is easy. There are a few areas I'm not a fan of but that could have been designed different but I can work with it.
 It does have some small issues and there is a bug in the coding that has to do with standard/metric units option-settings. I've asked the creater manytimes only to be brushed off. As long as the software options settings are correct on the UI everything is accurate. The problem is a "rounding" issue to the .xxx point rounding up. so... .005 would be rounded upto .01. You can see the issue with gcode output in regards to a tooling path and bit size.
 
+![steel bracket cnc cut out](https://user-images.githubusercontent.com/15570512/212523265-c49f42c0-9e1f-4290-9cee-474ecd449edc.jpg)
