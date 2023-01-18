@@ -1,5 +1,6 @@
 # ORANGE-PI-5 
 #                                      KEEP CHECKING BACK I UPDATE THIS GIT REPO OFTEN.
+                                       FIRST OPI5 IN THE WORLD WITH A REAL MOUNTED HEATSINK!
 
 ![20230117_181448](https://user-images.githubusercontent.com/15570512/213040467-bef33e19-85ca-407a-9efc-6b4d8a62f26c.jpg)
 
