@@ -1,7 +1,7 @@
 # ORANGE-PI-5 
 #                                      KEEP CHECKING BACK I UPDATE THIS GIT REPO OFTEN.
 
-![Heatsink dryfit with bracket](https://user-images.githubusercontent.com/15570512/212563642-10395a8b-0564-499b-aab2-0b1bcfa2d831.png)
+![20230117_181448](https://user-images.githubusercontent.com/15570512/213040467-bef33e19-85ca-407a-9efc-6b4d8a62f26c.jpg)
 
 ![opi5 micro desktop back and side view](https://user-images.githubusercontent.com/15570512/210899034-5617d4ca-1f99-4545-9630-c1aaf9792690.jpg)
 
