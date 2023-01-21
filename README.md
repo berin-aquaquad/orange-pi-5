@@ -13,7 +13,9 @@ The core body is 62mm wide
 
 
 
-OPI5 open micro desktop case design.
+OPI5 open micro desktop case design, with a split body for two options. Main feature printable on smaller cnc machines, second feature is the ablity to have custom front and back desgined panels. Some may need ports on the back of the shell. Other people may desire features like lcd(s) and headers that are on the back to be on the front. Its a more useful design.
+
+1/21/2023 I will be cutting the acrylic panel(s) today starting with the SBC mount panel first. I have not cut 1/8th acrylic on my cnc before so I may run into a bit of trial and error figuring the best milling bits out feeds/speeds.
 
 1/16/2023 Ok looking for feed back https://www.amazon.com/Duttek-Degree-Extension-Motorcycle-Dashboard/dp/B08RRYMXB6 https://www.amazon.com/Poyiccot-Extension-Female-Extender-Straight/dp/B086YBP5VW Two examples of USB-C adapter which do you guys like? also USB-c to the front or back of the micro case? 
 *************** This is the spacer/stand off kit I have purchased https://www.amazon.com/dp/B08DMSNB8X This is the kit for mounting the OPI5. All spacings will be based off of these when I get them. stay tuned.
