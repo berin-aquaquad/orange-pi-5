@@ -15,6 +15,8 @@ The core body is 62mm wide
 
 OPI5 open micro desktop case design, with a split body for two options. Main feature printable on smaller cnc machines, second feature is the ablity to have custom front and back desgined panels. Some may need ports on the back of the shell. Other people may desire features like lcd(s) and headers that are on the back to be on the front. Its a more useful design.
 
+1/22/2023 12:30pm ? I have done nothing I just tried turning the opi5 on one last time and it just randomly posted.... I am so confused right now I have done nothing changed nothing. I just plugged it in and it just posted and booted into the SD card ubuntu build???? WTF.... Odd thing is I'm getting no HDMI video but I am getting usbc-hdmi....
+
 * 1/22/2023 I have been endlessly overwhelmed by my employer. I was planning on starting to build parts for the case yesterday 1/21 SAT., but I was tasked with 
 * designing and 3d printing. Inclusion mold parts for a many millions of dollars luxury yacht. That being said I just got a chance to test my opi5 today sunday. And I * apear to have a DOA dead unit out of the box. As of this moment this project is on hold indefinitely until I get a working OPI5. I am very angry and very pissed off. * My unit will not power on period, no signs of life nothing. Its 100% dead out of the box.
 
