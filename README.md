@@ -9,7 +9,7 @@
 ![opi5 micro desktop heatsink standoff mount bracket](https://user-images.githubusercontent.com/15570512/212485847-4f845119-6474-4ce0-8fec-bec8516d64f3.jpg)
 
 ![opi5 micro desktop dimensions](https://user-images.githubusercontent.com/15570512/212555028-3c1645ce-741b-4935-843d-13c97821a9f1.jpg)
-The core body is 62mm wide
+The core body is 68mm wide. The lower standoffs are 6mm, the upper standoffs are 10mm
 
 
 
@@ -25,7 +25,7 @@ OPI5 open micro desktop case design, with a split body for two options. Main fea
 1/21/2023 I will be cutting the acrylic panel(s) today starting with the SBC mount panel first. I have not cut 1/8th acrylic on my cnc before so I may run into a bit of trial and error figuring the best milling bits out feeds/speeds.
 
 1/16/2023 Ok looking for feed back https://www.amazon.com/Duttek-Degree-Extension-Motorcycle-Dashboard/dp/B08RRYMXB6 https://www.amazon.com/Poyiccot-Extension-Female-Extender-Straight/dp/B086YBP5VW Two examples of USB-C adapter which do you guys like? also USB-c to the front or back of the micro case? 
-*************** This is the spacer/stand off kit I have purchased https://www.amazon.com/dp/B08DMSNB8X This is the kit for mounting the OPI5. All spacings will be based off of these when I get them. stay tuned.
+*************** This is the spacer/stand off kit I have purchased https://www.amazon.com/dp/B08DMSNB8X This is the kit for mounting the OPI5. All spacings will be based off of these when I get them. stay tuned. 6mm and 10mm standoffs are used from this kit. As well as one of the screws with two plastic nuts for holding the m.2 NVME drive.
 
 1/17/2023 BIG update I have just mounted my heatsink to the OPI5 it LOOKS AMAZING. Now that I have my heatsinks mounted My next step is moving to to software.
 
