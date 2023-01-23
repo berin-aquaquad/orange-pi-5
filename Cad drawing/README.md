@@ -14,3 +14,4 @@ I need to find out what all of the features of the audio jack are before I adjus
 
 I will add links to products if people do not have them on hand as time goes on.
 
+The GCODE folder contains files for the aluminum heatsink standoff and the mounting brackets for the heatsink. The micro desktop V1 folder contains the core micro desktop files for 3d printing or editing the two halfs for personaly needs. Please give me credit on the design thanks.
