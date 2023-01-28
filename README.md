@@ -1,4 +1,4 @@
-# ORANGE-PI-5       Please dont clone and build till I update the CAD drawing I just JUST discovered what has been throwing my measurements off. CAD error 1 MEASUREMENTS THROWING EVERYTHING OFF by a few mill.
+# ORANGE-PI-5       All cad adjustments should be done and all files I believe have been updated to the git that needed to be. Some how the OPI5 motherboard in the cad drawing was 5mm too long and that displaced everything.
 #                                      KEEP CHECKING BACK I UPDATE THIS GIT REPO OFTEN.
 #              FIRST OPI5 IN THE WORLD WITH A REAL MOUNTED ICE TOWER HEATSINK! Now that my OPI5 has a full suite of heatsinks on it. My next focus is on starting the build of the micro desktop case and OS. I believe the first part I'll build is the SBC mounting plane. That will give me something to mount to then I'll start the main body 3d print.
 
