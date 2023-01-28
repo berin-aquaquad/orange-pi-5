@@ -11,6 +11,7 @@
 ![opi5 micro desktop dimensions](https://user-images.githubusercontent.com/15570512/212555028-3c1645ce-741b-4935-843d-13c97821a9f1.jpg)
 The core body is 68mm wide. The lower standoffs are 6mm, the upper standoffs are 10mm
 
+![opi5 mounted to plane](https://user-images.githubusercontent.com/15570512/215288946-a3bde6f3-7f01-4628-99d5-ae7febb5b7f5.jpg)
 
 
 OPI5 open micro desktop case design, with a split body for two options. Main feature printable on smaller cnc machines, second feature is the ablity to have custom front and back desgined panels. Some may need ports on the back of the shell. Other people may desire features like lcd(s) and headers that are on the back to be on the front. Its a more useful design.
