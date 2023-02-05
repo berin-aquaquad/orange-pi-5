@@ -7,3 +7,7 @@ The .E10 file is an ESTLcam file. I love ESTLcam, everything about it is easy. T
 It does have some small issues and there is a bug in the coding that has to do with standard/metric units option-settings. I've asked the creater manytimes only to be brushed off. As long as the software options settings are correct on the UI everything is accurate. The problem is a "rounding" issue to the .xxx point rounding up. so... .005 would be rounded upto .01. You can see the issue with gcode output in regards to a tooling path and bit size.
 
 ![steel bracket cnc cut out](https://user-images.githubusercontent.com/15570512/212523265-c49f42c0-9e1f-4290-9cee-474ecd449edc.jpg)
+
+Micro desktop sides cut finally.
+
+![20230204_213044](https://user-images.githubusercontent.com/15570512/216799617-0b144c5e-db34-4da9-807d-260743f343f1.jpg)
