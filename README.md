@@ -16,7 +16,7 @@ The core body is 68mm wide. The lower standoffs are 6mm, the upper standoffs are
 
 OPI5 open micro desktop case design, with a split body for two options. Main feature printable on smaller cnc machines, second feature is the ablity to have custom front and back desgined panels. Some may need ports on the back of the shell. Other people may desire features like lcd(s) and headers that are on the back to be on the front. Its a more useful design.
 
-2/5/2023 I have ordered a (https://www.amazon.com/gp/product/B076WXR8N9 "I2c OLED Display 0.96") and I just ordered a new much larger 3d printer. I will be making a custom front shell have version when I get the display. Again this case design is a modualer setup so it can be custom to one's needs for the front and back halfs. As well as the width can be adjusted as desired.
+2/5/2023 I have ordered a (https://www.amazon.com/gp/product/B076WXR8N9 "I2c OLED Display 0.96") and I just ordered a new much larger 3d printer. I will be making a custom front shell half version when I get the display. Again this case design is a modualer setup so it can be custom to one's needs for the front and back halfs. As well as the width can be adjusted as desired.
 
 2/3/2023 I have finally cut the side covers out of acrylic, I have posted the updated DXF files in the gcode folder as well as posting an image.
 
