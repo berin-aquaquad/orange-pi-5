@@ -8,6 +8,6 @@ It does have some small issues and there is a bug in the coding that has to do w
 
 ![steel bracket cnc cut out](https://user-images.githubusercontent.com/15570512/212523265-c49f42c0-9e1f-4290-9cee-474ecd449edc.jpg)
 
-Micro desktop sides cut finally.
+Micro desktop sides cut finally. I have modified the DXF files only so far. The main .RSDOC file I'll update when I get around to it, but I changed the dimentions of the 45 degree vents and spacing. I also added straight lines in the vents that needed them. That allows anyone who plans to mill the deesign. To preform an engrave or straight cut rather then milling the "pocket" or hole function. I may post the GCODE files if I get any requests, if interested its setup for a 1/8th or 3.125mm two flute upcut bit running 15k rpm or greater. With a feed rate of 50mm/min two passes, then a finishing cleanup pass full depth at 150mm/min. Its true I could mill it faster BUT I mounted it with dbl sided foam tape. Not worth the risk of deflection warping the cut.
 
 ![20230204_213044](https://user-images.githubusercontent.com/15570512/216799617-0b144c5e-db34-4da9-807d-260743f343f1.jpg)
