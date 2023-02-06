@@ -8,7 +8,7 @@
 
 ![opi5 micro desktop heatsink standoff mount bracket](https://user-images.githubusercontent.com/15570512/212485847-4f845119-6474-4ce0-8fec-bec8516d64f3.jpg)
 
-![opi5 micro desktop dimensions](https://user-images.githubusercontent.com/15570512/212555028-3c1645ce-741b-4935-843d-13c97821a9f1.jpg)
+![opi5 micro desktop dimensions](https://user-images.githubusercontent.com/15570512/217111812-a268338b-6934-4fed-9422-e6e85f88a825.jpg)
 The core body is 68mm wide. The lower standoffs are 6mm, the upper standoffs are 10mm
 
 ![opi5 mounted to plane](https://user-images.githubusercontent.com/15570512/215288946-a3bde6f3-7f01-4628-99d5-ae7febb5b7f5.jpg)
