@@ -16,7 +16,7 @@ The core body is 68mm wide. The lower standoffs are 6mm, the upper standoffs are
 
 OPI5 open micro desktop case design, with a split body for two options. Main feature printable on smaller cnc machines, second feature is the ablity to have custom front and back desgined panels. Some may need ports on the back of the shell. Other people may desire features like lcd(s) and headers that are on the back to be on the front. Its a more useful design.
 
-2/6/2023 CAD files have been updated and uploaded, unless I missed something everything be updated corrected with the latest corrections. .rsdoc .stl .dxf files and some images have been updated.
+2/6/2023 CAD files have been updated and uploaded, unless I missed something everything should be updated corrected with the latest corrections. .rsdoc .stl .dxf files and some images have been updated.
 
 2/5/2023 I have milled the corrected back plane and it came out perfect see too pictures when I get to posting. Also I just discovered I made a small not error but over site. One of the back plane mounts is in the wrong location so you can not remove the back plane with the opi5 mounted IF that screw is populated. Because it is under the opi5 board under the stacked USB ports. I'm updating the cad drawing and I'll post the correction some time soon. That will be a correction to the master .RSDOC cad file, and to the back plane DXF file and the back half of the micro desktop tower shell dxf and .rsdoc files when I finish the correction. Look for all 3 files to have the same time date update when updated.
 
