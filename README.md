@@ -4,6 +4,10 @@
 
 # FIRST OPI5 IN THE WORLD WITH A REAL MOUNTED ICE TOWER HEATSINK! Now that my OPI5 has a full suite of heatsinks on it. My next focus is on starting the build of the micro desktop case and OS. I believe the first part I'll build is the SBC mounting plane. That will give me something to mount to then I'll start the main body 3d print.
 
+![20230212_163206 thumb jpg 70dcd27b7984e3ebd21cffe2945fdb69](https://user-images.githubusercontent.com/15570512/218590901-b1c627fe-9a7f-4d3c-bbda-a8324bcae338.jpg)
+
+![opi5microdesktopupdated2 thumb jpg 56bcd5c85741f7769b6156b93f30e681](https://user-images.githubusercontent.com/15570512/218591003-f52af21e-bc48-4191-9ca4-57ece330023e.jpg)
+
 ![20230117_181448](https://user-images.githubusercontent.com/15570512/213040467-bef33e19-85ca-407a-9efc-6b4d8a62f26c.jpg)
 
 ![opi5 micro desktop back and side view](https://user-images.githubusercontent.com/15570512/210899034-5617d4ca-1f99-4545-9630-c1aaf9792690.jpg)
