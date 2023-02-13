@@ -1,6 +1,5 @@
-# I just spent from 7am to 9am doing cad updates that I was supposed to be doing super bowl prep. I just upped the latest "adjustments"  details written in folder "micro desktop v1" 
-# ORANGE-PI-5       So its stupid late and my print finished. the measurements from the amazon web site for the LCD are not even close. I should have measured directly. well more cad adjustments tomorrow.
-                                        #KEEP CHECKING BACK I UPDATE THIS GIT REPO OFTEN.
+# ORANGE-PI-5       
+#KEEP CHECKING BACK I UPDATE THIS GIT REPO OFTEN.
 #              FIRST OPI5 IN THE WORLD WITH A REAL MOUNTED ICE TOWER HEATSINK! Now that my OPI5 has a full suite of heatsinks on it. My next focus is on starting the build of the micro desktop case and OS. I believe the first part I'll build is the SBC mounting plane. That will give me something to mount to then I'll start the main body 3d print.
 
 ![20230117_181448](https://user-images.githubusercontent.com/15570512/213040467-bef33e19-85ca-407a-9efc-6b4d8a62f26c.jpg)
