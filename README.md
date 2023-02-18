@@ -1,4 +1,4 @@
-# ORANGE-PI-5       
+# ORANGE-PI-5  I have updated the case with a new front half design, and many other adjustments.
 
 # KEEP CHECKING BACK I UPDATE THIS GIT REPO OFTEN.
 
