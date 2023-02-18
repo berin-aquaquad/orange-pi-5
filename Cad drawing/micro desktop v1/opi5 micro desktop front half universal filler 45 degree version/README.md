@@ -9,4 +9,5 @@ The idea is to feed the fine wires through the hole as pictured.![opi5 micro des
 
 
 Then solder the wires to a "KEYED JST" connector so its not able to be plugged in backwards. With out using a jst connector or like connector, the OPI5 would be hard wired to the RTC battery and can not be removed from the case. There are two test pads on the back of the OPI5 for RTC. One is labled "RTC" for +3v cr2032 power and the other is labled "GRD" DO NOT MIX THESE UP! Wires soldered to these tiny points should be strain reliefed with hotglue or epoxy dots and zip tie the wires to the OPI5 standoffs. In the picture below you can see the RTC and GND test pads on the back side of the OPI5 with a red arrow pointing at them.
+
 ![pi-5-bottom-view](https://user-images.githubusercontent.com/15570512/219877982-a21b246d-de2f-414f-8482-af740ac2db17.png)
