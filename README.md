@@ -22,7 +22,7 @@ The core body is 68mm wide. The lower standoffs are 6mm, the upper standoffs are
 
 OPI5 open micro desktop case design, with a split body for two options. Main feature printable on smaller cnc machines, second feature is the ablity to have custom front and back desgined panels. Some may need ports on the back of the shell. Other people may desire features like lcd(s) and headers that are on the back to be on the front. Its a more useful design.
 
-2/18/2023 Bunch of updates and new features and corrections, standard filler for 45 degree area is done. This allows anyone to make a custom insert design, I have one design done so far which is the i2c lcd and a blank version. I have updated the side covers to remove the circle holes on one side and relocated the vent intake for the tower cooler on the other side. All files affected by adjustments should be updated.
+2/18/2023 Bunch of updates and new features and corrections, standard filler for 45 degree area is done. This allows anyone to make a custom insert design, I have one design done so far which is the i2c lcd and a blank version. I have updated the side covers to remove the circle holes on one side and relocated the vent intake for the tower cooler on the other side. I have added a CR2032 BATTERY holder for RTC features. The battery holder is just a pocket for a real button battery holder. The idea is to solder wires and install it into the case holder All files affected by adjustments should be updated.
 
 2/15/2023 I am redesigning the 45 degree area with a universal filler plate that can be designed to one's needs. I think at this point I'm going to add a folder as designs in the pipe for images only.
 
