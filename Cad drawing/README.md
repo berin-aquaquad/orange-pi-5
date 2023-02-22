@@ -1,4 +1,4 @@
-#I plan to rearrange the GIT a bit to make it a little more orginized. 
+# I plan to rearrange the GIT a bit to make it a little more orginized. 
 ![opi5 micro desktop updated](https://user-images.githubusercontent.com/15570512/218292882-acbc3f6c-a8b2-4d09-a3d9-e7c029480803.jpg)
 # I have updated the cad draw and stl files for the OPI5 micro desktop as of 1/22/2023 the cad drawing should be final first version. Any changes after this will be feature changes and have there own sub folder for front half and back half of the split body OPI5 Micro Desktop. 
 
