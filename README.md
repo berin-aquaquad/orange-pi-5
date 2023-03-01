@@ -1,6 +1,9 @@
 Best source for current content from me https://forum.armbian.com/topic/25673-orange-pi-5-opi5-micro-desktop-case-design/
 
-# Not yet but I will be posting updates, when this message is gone the updates have been done. Exciting stuff has happend with the build.
+# At this time I believe everything has been updated with the latest and WORKING version for the cad drawing. The results are pictured. ENJOY. Let me know if someone builds this.
+
+![20230228_231910 thumb jpg 945669c564e5bb9a0a729d5997930626](https://user-images.githubusercontent.com/15570512/222292082-0330b0e4-a7a1-42df-b861-f56533740ef1.jpg)
+
 # ORANGE-PI-5  I have updated the case with a new front half design, and many other adjustments.
 
 # KEEP CHECKING BACK I UPDATE THIS GIT REPO OFTEN.
